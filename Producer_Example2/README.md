@@ -13,7 +13,7 @@ This repository is accompanied by a blog post that provides a detailed explanati
 - Best practices for configuring and optimizing the Kafka producer.
 
 
-You can read the full blog post [here](https://www.example.com/blog/kafka-producer-examples).
+You can read the full blog post [here](https://medium.com/@yashashreechopada/unlocking-the-power-of-kafka-exploring-the-producer-api-for-seamless-data-integration-cec83b3156c0).
 
 ## Prerequisites
 
